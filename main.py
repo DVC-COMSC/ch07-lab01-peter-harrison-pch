@@ -9,3 +9,5 @@ for i in range(5):
 
 total = sum(numbers)
 total = total - min(numbers) - max(numbers)
+
+print(total)
